@@ -10,10 +10,10 @@
 <div align="center">
 
 🎓 **Gachon University – Software Engineering**  
-🤖 **Interested in Machine Learning & Data-driven AI**  
-🌱 Currently learning **ML algorithms & backend engineering**  
+🤖 **Interested in Backend Engineering & Infra**  
+🌱 Currently learning **Infra & backend engineering**  
 📫 **Contact**: dyddhksdl1@naver.com  
-🎯 **Goal**: AI Engineer / Research-oriented Developer  
+🎯 **Goal**: Infra architecture / Backend Engineer  
 🎮 **Hobby**: 🏀 Basketball · 📽️ Movies · 🎵 Music  
 
 </div>
