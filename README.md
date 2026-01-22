@@ -67,13 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yongwanjoo&theme=github-dark&hide_border=true"/>
-</div>
-
----
-
 ## 🏆 Problem Solving
 
 <div align="center">
