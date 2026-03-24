@@ -70,7 +70,9 @@
 
 ## 주요 프로젝트
 
-* 2026~03 ~ 2026.03 우리 FIS 아카데미 vmWare 가상화 실습 프로젝트:</br>
+* 2026.03 ~ 2026.04 우리FIS 아카데미 기술 세미나 AgentOps 프로젝트:</br>
+  https://github.com/YongwanJoo/fisa-ce6-agent-platform
+* 2026.03 ~ 2026.03 우리 FIS 아카데미 vmWare 가상화 실습 프로젝트:</br>
   https://github.com/FISA-VMware-Team2/VMware-proj
 * 2026.01 ~ 2026.02 우리 FIS 아카데미 기술 세미나 MSA 프로젝트 (우수팀 수상):</br>
   https://github.com/FISA-L2J/MSA-project
