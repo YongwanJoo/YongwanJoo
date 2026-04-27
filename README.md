@@ -81,9 +81,11 @@
 * 2025.09 ~ 2025.10 가천 SW 아카데미 현장 미러형 프로젝트 (AI 기반 데이트 코스 추천 프로젝트)</br>
   https://github.com/PitterPetter
 * 2025.01 ~ 2025.07 한국컴퓨터종합학술대회 2025 학부생 논문 투고 및 포스터 세션 발표</br>
-  AI 피드백 기반 강화학습을 이용한 공감 대화 생성 모델
+  AI 피드백 기반 강화학습을 이용한 공감 대화 생성 모델</br>
+  (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318863)
 * 2024.09 ~ 2024.10 한국정보처리학회 2024 학부생 논문 투고</br>
-  강화 학습 기반의 프리페처와 캐시 교체 기법
+  강화 학습 기반의 프리페처와 캐시 교체 기법</br>
+  (https://www.koreascience.kr/article/CFKO202433162046008.page?&lang=ko)
 
 ---
 
