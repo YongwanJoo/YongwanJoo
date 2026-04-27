@@ -75,7 +75,7 @@
   https://github.com/FISA-VMware-Team2/VMware-proj
 * 2026.01 ~ 2026.02 우리 FIS 아카데미 기술 세미나 MSA 프로젝트 (우수팀 수상):</br>
   https://github.com/FISA-L2J/MSA-project
-* 2026.01 ~ 2026.01 우리 FIS 아카데미 n8n 기반 가상자산 자동 매매 프로젝트:
+* 2026.01 ~ 2026.01 우리 FIS 아카데미 n8n 기반 가상자산 자동 매매 프로젝트:</br>
   https://github.com/woojinni/FISA_n8n_project
 * 2025.10 ~ 2025.12 가천 SW 아카데미 디케이테크인 기업 실무 프로젝트 (RAG 기반 사내규정 알림 챗봇 서비스)
 * 2025.09 ~ 2025.10 가천 SW 아카데미 현장 미러형 프로젝트 (AI 기반 데이트 코스 추천 프로젝트)</br>
