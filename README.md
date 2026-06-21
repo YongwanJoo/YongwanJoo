@@ -68,6 +68,8 @@
 * 2024.01 ~ 2024.07 [데이터 분석 연합 동아리 WE IT 활동]
 
 ## 주요 프로젝트
+* 2026.06 ~ 진행 중 OpenStack 기반 프라이빗 클라우드 구축 프로젝트</br>
+  https://github.com/YongwanJoo/open-stack_learning
 * 2026.04 ~ 2026.06 우리FIS 아카데미 최종 프로젝트 청년금융생활관리 플랫폼: MoneyLog</br>
   https://github.com/5kstration
 * 2026.03 ~ 2026.04 우리FIS 아카데미 기술 세미나 AgentOps 프로젝트:</br>
