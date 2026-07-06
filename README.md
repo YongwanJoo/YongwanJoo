@@ -48,9 +48,9 @@
 
 ## Activities
 
-### n8n 기반 가상자산 자동 매매 프로젝트 (가장 최신)
-> n8n을 활용한 가상자산 자동 매매 파이프라인 구축
-- **GitHub Repository**: [Link](https://github.com/woojinni/FISA_n8n_project)
+### **OpenStack 기반 프라이빗 클라우드 구축 프로젝트** (2026.06 ~ 진행 중)
+> OpenStack 기반의 k8s 구축 및 자체 방화벽 설계 
+- **GitHub Repository**: [Link](https://github.com/YongwanJoo/open-stack_learning)
 
 ### MoneyLog - 청년 맞춤형 금융 생활 관리 플랫폼 (2026.04 — 2026.06)
 > 소비 기록을 콘텐츠로 공유하고 AI 기반 금융 분석 및 맞춤형 금융·정책 정보를 제공하는 플랫폼
@@ -75,10 +75,10 @@
 <details>
 <summary><b>기타 Activities 보기</b></summary>
 <br>
-
-- **OpenStack 기반 프라이빗 클라우드 구축 프로젝트** (2026.06 ~ 진행 중) | [GitHub](https://github.com/YongwanJoo/open-stack_learning)
+  
 - **AgentOps 프로젝트** (2026.03 ~ 2026.04) | [GitHub](https://github.com/YongwanJoo/fisa-ce6-agent-platform)
 - **AI 기반 데이트 코스 추천 프로젝트 (현장 미러형)** (2025.09 ~ 2025.10) | [GitHub](https://github.com/PitterPetter)
+- **n8n 기반 가상자산 자동 매매 프로젝트** (2026.01 ~ 2026.01) | [Github](https://github.com/woojinni/FISA_n8n_project)
 
 </details>
 
