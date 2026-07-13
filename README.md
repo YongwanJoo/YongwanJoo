@@ -65,7 +65,7 @@
 ### DKaffeine - 사내 내규 기반 RAG 챗봇 시스템 (2025.10 — 2025.12)
 > 기업 내규와 정책 문서를 기반으로 정확한 질의응답을 제공하는 RAG 챗봇 구축 (디케이테크인 실무 프로젝트)
 - **Tech**: Python, LangChain, Celery, Redis
-- **Project Detail**: [Link](https://yongwanjoo.github.io/rag.html)
+- **Project Detail**: [Link](https://github.com/YongwanJoo/DKaffeine-Chatbot)
 
 ### Cloud Native MSA 플랫폼 구축 (2026.01 — 2026.02) | 우수팀 수상
 > VM 기반 모놀리스 애플리케이션을 Kubernetes 기반 Cloud Native MSA 환경으로 마이그레이션
