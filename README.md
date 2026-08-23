@@ -48,6 +48,10 @@
 
 ## Activities
 
+### **Kubeadm, OpenStack-Helm 기반 프라이빗 클라우드 구축 프로젝트** (2026.08 ~ 진행 중)
+> Kubeadm 기반 컨테이너 환경에서 OpenStack-Helm 학습 및 프라이빗 클라우드 구축
+- **GitHub Repository**: [Link](https://github.com/YongwanJoo/openstackhelm)
+
 ### **OpenStack 기반 프라이빗 클라우드 구축 프로젝트** (2026.06 ~ 진행 중)
 > OpenStack 기반의 k8s 구축 및 자체 방화벽 설계 
 - **GitHub Repository**: [Link](https://github.com/YongwanJoo/open-stack_learning)
