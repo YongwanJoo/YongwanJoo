@@ -15,7 +15,7 @@
   <table width="100%">
     <tr>
       <td width="100%">
-         <b>가천대학교</b> – 소프트웨어학과 (2020.03 ~ 2026.08)<br>
+         <b>OO대학교</b> – 소프트웨어학과 (2020.03 ~ 2026.08)<br>
          <b>목표</b>: 클라우드/백엔드 개발을 희망하는 개발자입니다<br>
          <b>Contact</b>: <a href="mailto:dyddhksdl1@naver.com">dyddhksdl1@naver.com</a><br>
          <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/용완-주-20851a419/">LinkedIn Profile</a><br>
@@ -77,7 +77,7 @@
 <br>
   
 - **AgentOps 프로젝트** (2026.03 ~ 2026.04) | [GitHub](https://github.com/YongwanJoo/fisa-ce6-agent-platform)
-- **AI 기반 데이트 코스 추천 프로젝트 (현장 미러형)** (2025.09 ~ 2025.10) | [GitHub](https://github.com/PitterPetter)
+- **AI 기반 데이트 코스 추천 프로젝트** (2025.09 ~ 2025.10) | [GitHub](https://github.com/PitterPetter)
 - **n8n 기반 가상자산 자동 매매 프로젝트** (2026.01 ~ 2026.01) | [Github](https://github.com/woojinni/FISA_n8n_project)
 
 </details>
@@ -86,10 +86,10 @@
 
 - `2026.06` AWS US Aurora Team Customer Interview
 - `2025.12 ~ 2026.06` 우리 FIS 아카데미 클라우드 엔지니어링 6기 우수 수료
-- `2025.09 ~ 2025.12` 가천대 SW 아카데미 7기 수료
-- `2025.09 ~ 2025.12` 가천대 소프트웨어학과 머신러닝 과목 TA 활동
-- `2025.01 ~ 2025.07` 가천대 소프트웨어학과 IDA 연구실 학부 인턴
-- `2025.03 ~ 2025.06` 가천대 소프트웨어학과 데이터 과학 과목 TA 활동
+- `2025.09 ~ 2025.12` OO대 SW 아카데미 7기 수료
+- `2025.09 ~ 2025.12` OO대 소프트웨어학과 머신러닝 과목 TA 활동
+- `2025.01 ~ 2025.07` OO대 소프트웨어학과 IDA 연구실 학부 인턴
+- `2025.03 ~ 2025.06` OO대 소프트웨어학과 데이터 과학 과목 TA 활동
 - `2024.01 ~ 2024.07` 데이터 분석 연합 동아리 WE IT 활동
 
 ---
